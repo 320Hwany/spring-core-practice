@@ -2,6 +2,8 @@ package hello.core4.order;
 
 import hello.core4.AppConfig;
 import hello.core4.member.*;
+import hello.core4.order.Order;
+import hello.core4.order.OrderService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
